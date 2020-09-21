@@ -109,3 +109,5 @@ Docker images are available on the [Docker hub](https://hub.docker.com/r/fredboa
 
 # Acknowledgements
 This project contains modified code from https://github.com/sedmelluq/jda-nas v1.0.5
+
+[![Run on Repl.it](https://repl.it/badge/github/Frederikam/Lavalink)](https://repl.it/github/Frederikam/Lavalink)
